@@ -4,7 +4,7 @@
 
 * Understanding "Power" - Type I and Type II Errors
 * Learning how to compute power, sample size and effect sizes
-* PPT SLIDES
+* [PPT SLIDES - click to download](https://github.com/melindahiggins2000/MHiggins_PowerLecture_GPowerExercises/raw/main/MHiggins_PowerLecture.pptx) 
 
 #### Power Analysis Software
 
